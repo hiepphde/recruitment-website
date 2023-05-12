@@ -27,7 +27,9 @@ file 'faking-data-scripts.py'
   
 Results after I run my application:  
 ![image](https://github.com/hiepphde/recruitment-website/assets/84515603/ed797641-fe0e-4e31-80db-8a21fd37a390)
-
+  
+This is a project that simulates the process of building a complete Data Pipeline with Near Real-time.  
+I have learned how to operate Spark, get used to the NOSQL database and understand the process of building an ETL Scripts in practice.
 
 
 
