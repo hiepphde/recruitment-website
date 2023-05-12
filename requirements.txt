@@ -1,0 +1,5 @@
+cassandra-driver==3.27.0
+SQLAlchemy==2.0.12
+python-dotenv==0.21.0
+time_uuid==0.2.0
+uuid
